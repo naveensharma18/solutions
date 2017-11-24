@@ -2,6 +2,16 @@ package com.problem.solution;
 
 import java.util.Scanner;
 
+/*
+ * Input 
+ * 
+2
+5
+1 2 3 5
+10
+1 2 3 4 5 6 7 8 10
+ */
+
 public class FindDuplicate {
 	
 	public static void main(String[] args) {

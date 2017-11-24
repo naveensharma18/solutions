@@ -2,6 +2,15 @@ package com.problem.solution;
 
 import java.util.Scanner;
 
+/*
+ * 
+2
+3
+1 2 3
+4
+-1 -2 -3 -4
+ */
+
 public class KadanesMaximumSum {
 	public static void main (String[] args) {
 		Scanner sc = new Scanner(System.in);
